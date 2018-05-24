@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">buckyFragments</string>
+    <string name="dank_meme_bro">Dank Meme Bro</string>
+    <string name="topText">Top</string>
+    <string name="bottomText">Bottom</string>
+    <string name="top_textHint">top text</string>
+    <string name="botttomtextHint">botttomText</string>
+</resources>
